@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-18 15:58:06</sys_created_on>
         <sys_id>c2ebd8f2db4233001a2cd6aa489619a8</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_hub_action_instance_c2ebd8f2db4233001a2cd6aa489619a8</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-06-18 16:45:43</sys_updated_on>
+        <sys_updated_on>2019-06-18 18:15:10</sys_updated_on>
         <ui_id>e539f250-c648-4a5f-80d9-a9ed3622d36b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c2ebd8f2db4233001a2cd6aa489619a8"/>
@@ -60,11 +60,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-18 16:13:04</sys_created_on>
         <sys_id>ad5f98b6db4233001a2cd6aa48961957</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-18 16:40:42</sys_updated_on>
+        <sys_updated_on>2019-06-18 17:44:28</sys_updated_on>
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value>assigned_to={{d95b1480-cd2b-47b6-8081-79b5b69de672.answer.assignee}}^due_date={{8029c0d2-0caa-4199-8cb2-c046e3be0e58.record.u_when_needed}}^short_description=Complete Facilities 1 NeedIt Task^priority={{8029c0d2-0caa-4199-8cb2-c046e3be0e58.record.priority}}</value>
+        <value>assigned_to={{d95b1480-cd2b-47b6-8081-79b5b69de672.answer.assignee}}^due_date={{8029c0d2-0caa-4199-8cb2-c046e3be0e58.record.u_when_needed}}^short_description=Complete Facilities 1 NeedIt Task</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>field_values</field>
